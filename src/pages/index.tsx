@@ -20,16 +20,16 @@ function Index() {
         </div>
         <div className="p-8 space-y-6">
           <div className="space-y-2">
-            <h1>Thomas Mitchelmore</h1>
+            <h1>Max Taylor</h1>
             <h2>
-              Project Manager at <a href="https://iceline-hosting.com/" target="_blank">Iceline Hosting</a>.
+              Co-Founder, Backend Developer and Client Liaison at <a href="https://aardvark.studio/" target="_blank">Aardvark Studio</a>.
             </h2>
           </div>
           <p>
-            With over 6 years of experience in the industry, I&apos;m a web designer and frontend developer that&apos;s passionate about creating beautiful, responsive sites that are a joy to use.
+          Creating professional products designed with clients and employees in mind. Aiming to make life easier and improve a business’s digital footprint.
           </p>
           <p className="font-medium">
-            <a href="mailto:hello@mitchelmore.dev">hello@mitchelmore.dev</a>
+            <a href="mailto:hello@taylorbusiness.dev">hello@taylorbusiness.dev</a>
           </p>
           <div className="flex gap-4">
             <IconContext.Provider value={{size: "24"}}>
