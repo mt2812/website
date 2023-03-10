@@ -1,6 +1,6 @@
 import { ReactNode } from "react"
 import { IconType } from "react-icons"
-import { RiGithubFill, RiInstagramLine, RiLinkedinFill } from "react-icons/ri"
+import { RiGithubFill, RiInstagramLine, RiLinkedinFill, RiTwitterFill } from "react-icons/ri"
 
 const socials: {
     name: string,
@@ -8,19 +8,9 @@ const socials: {
     icon: IconType
 }[] = [
     {
-        name: "Github",
-        url: "https://github.com/tommitchelmore/",
-        icon: RiGithubFill
-    },
-    {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/tommitchelmore/",
+        url: "https://www.linkedin.com/in/max-taylor-761512196/",
         icon: RiLinkedinFill
-    },
-    {
-        name: "Instagram",
-        url: "https://www.instagram.com/mitchelmore.tom/",
-        icon: RiInstagramLine
     }
 ]
 
