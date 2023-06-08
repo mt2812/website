@@ -9,7 +9,7 @@ function Index() {
         <div className="w-full h-64 relative">
           <Image
             src="/image/me.jpeg"
-            alt="Thomas Mitchelmore"
+            alt="Max Taylor"
             fill
             className="object-cover"
             style={{
@@ -22,7 +22,7 @@ function Index() {
           <div className="space-y-2">
             <h1>Max Taylor</h1>
             <h2>
-              Co-Founder, Backend Developer and Client Liaison at <a href="https://aardvark.studio/" target="_blank">Aardvark Studio</a>.
+              Co-Founder, Backend Developer and Client Liaison at <a href="https://novatura.co/" target="_blank">Novatura</a>.
             </h2>
           </div>
           <p>
